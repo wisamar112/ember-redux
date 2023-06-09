@@ -36,7 +36,7 @@
     "ember-qunit-assert-helpers": "^0.2.2",
     "ember-redux-thunk-shim": "^2.5.0",
     "ember-resolver": "^4.0.0",
-    "ember-source": "~3.11.1",
+    "ember-source": "~2.15.0",
     "ember-symbol-observable": "^1.0.2",
     "ember-try": "^0.2.23",
     "eslint-plugin-ember": "^5.0.0",
